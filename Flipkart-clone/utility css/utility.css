@@ -1,0 +1,16 @@
+.all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.textcenter div a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
